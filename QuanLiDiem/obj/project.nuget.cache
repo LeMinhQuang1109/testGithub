@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5vIaJ51d0TXtUhMbmDJLxpKzSyfnhWGclM5otKujl1Ojj3wde8yvtvRSEqaM+RMfCggXBo9FlzwFWKhjdAdibw==",
+  "dgSpecHash": "n71Pl5CyAVBNe/gV3l8BIMo20Lld6x/1WnbCycxntDMCBNLvRX2BMUjhOh2IRm3Kd5DH5P3fBDWyULwWJtVT7g==",
   "success": true,
-  "projectFilePath": "D:\\DotNetCore\\QuanLyDiemSinhVien\\QuanLiDiem\\QuanLiDiem.csproj",
+  "projectFilePath": "D:\\DotNetCore\\testGithub\\QuanLiDiem\\QuanLiDiem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MINH QUANG\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\MINH QUANG\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
